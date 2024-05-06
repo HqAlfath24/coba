@@ -5,3 +5,6 @@ cek 1
 masuk branch dev-1
 
 balik ke main setelah merging
+
+
+branch baru dev
